@@ -1,0 +1,7 @@
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\publish\Keylogger.exe
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\publish\Keylogger.dll
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\publish\Keylogger.deps.json
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\publish\Keylogger.runtimeconfig.json
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\publish\Keylogger.pdb
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\publish\Helper.dll
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\publish\Helper.pdb

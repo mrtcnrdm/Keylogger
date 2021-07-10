@@ -1,12 +1,42 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {},
-    "net5.0/win-x64": {}
+    "net5.0": {
+      "Helper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Helper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Helper.dll": {}
+        }
+      }
+    },
+    "net5.0/win-x64": {
+      "Helper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Helper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Helper.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Helper/1.0.0": {
+      "type": "project",
+      "path": "../Helper/Helper.csproj",
+      "msbuildProject": "../Helper/Helper.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Helper >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Asus\\.nuget\\packages\\": {}
@@ -34,7 +64,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Dosyalar\\Yazilim\\csharp\\Keylogger\\Helper\\Helper.csproj": {
+              "projectPath": "D:\\Dosyalar\\Yazilim\\csharp\\Keylogger\\Helper\\Helper.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

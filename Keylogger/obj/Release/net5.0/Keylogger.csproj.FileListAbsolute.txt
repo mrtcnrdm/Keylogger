@@ -14,3 +14,6 @@ D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\obj\Release\net5.0\Keylogger.dll
 D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\obj\Release\net5.0\ref\Keylogger.dll
 D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\obj\Release\net5.0\Keylogger.pdb
 D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\obj\Release\net5.0\Keylogger.genruntimeconfig.cache
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\Helper.dll
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\Helper.pdb
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\obj\Release\net5.0\Keylogger.csproj.CopyComplete
