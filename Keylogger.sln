@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keylogger", "Keylogger\Keylogger.csproj", "{BB33AF59-4DAC-415C-91E0-4BD4A7CFE59F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper", "Helper\Helper.csproj", "{66C62AC7-5468-42E6-91F5-4489FFCB98F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BB33AF59-4DAC-415C-91E0-4BD4A7CFE59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB33AF59-4DAC-415C-91E0-4BD4A7CFE59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB33AF59-4DAC-415C-91E0-4BD4A7CFE59F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66C62AC7-5468-42E6-91F5-4489FFCB98F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C62AC7-5468-42E6-91F5-4489FFCB98F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C62AC7-5468-42E6-91F5-4489FFCB98F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C62AC7-5468-42E6-91F5-4489FFCB98F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

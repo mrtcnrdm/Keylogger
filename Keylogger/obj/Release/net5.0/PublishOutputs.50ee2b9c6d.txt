@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\keylogger\Keylogger.exe
+C:\Users\Asus\Desktop\keylogger\Keylogger.dll
+C:\Users\Asus\Desktop\keylogger\Keylogger.deps.json
+C:\Users\Asus\Desktop\keylogger\Keylogger.runtimeconfig.json
+C:\Users\Asus\Desktop\keylogger\Keylogger.pdb

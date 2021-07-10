@@ -1,0 +1,16 @@
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\Keylogger.exe
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\Keylogger.deps.json
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\Keylogger.runtimeconfig.json
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\Keylogger.runtimeconfig.dev.json
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\Keylogger.dll
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\ref\Keylogger.dll
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\bin\Release\net5.0\Keylogger.pdb
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\obj\Release\net5.0\Keylogger.csprojAssemblyReference.cache
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\obj\Release\net5.0\Keylogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\obj\Release\net5.0\Keylogger.AssemblyInfoInputs.cache
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\obj\Release\net5.0\Keylogger.AssemblyInfo.cs
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\obj\Release\net5.0\Keylogger.csproj.CoreCompileInputs.cache
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\obj\Release\net5.0\Keylogger.dll
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\obj\Release\net5.0\ref\Keylogger.dll
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\obj\Release\net5.0\Keylogger.pdb
+D:\Dosyalar\Yazilim\csharp\Keylogger\Keylogger\obj\Release\net5.0\Keylogger.genruntimeconfig.cache
